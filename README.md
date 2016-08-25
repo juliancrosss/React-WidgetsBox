@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # react-webpack-babel
 Simple React Webpack Babel Starter Kit
 
@@ -44,3 +45,7 @@ If you want to run with webpack-dev-server simply run this command:
 Open the web browser to `http://localhost:8888/`
 
 Please contribute to the project if you think this can be done better in anyway even for this README :)
+=======
+# React-WidgetsBox
+s
+>>>>>>> 9bf19b3e668ccdabc689acb480af0c6bb7af8259
